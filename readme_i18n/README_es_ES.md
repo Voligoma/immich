@@ -60,16 +60,16 @@ Puedes encontrar la documentación oficial, incluidas las guías de instalación
 
 Puedes acceder a la demostración web en <https://demo.immich.app>
 
-Para la aplicación móvil, puedes usar `https://demo.immich.app/api` en la `URL de la terminal del servidor`.
+Para la aplicación móvil, puedes usar `https://demo.immich.app/api` en la `URL del servidor`.
 
 ```bash title="Credenciales de la demo"
-Las Credenciales
+Credenciales
 correo: demo@immich.app
 contraseña: demo
 ```
 
 ```bash
-Especificaciones: Una VM de nivel gratuito de Oracle - Ámsterdam - CPU ARM64 de cuatro núcleos a 2.4 GHz, 24 GB de RAM
+Especificaciones: Una VM gratuita de Oracle - Ámsterdam - CPU ARM64 de cuatro núcleos a 2.4 GHz, 24 GB de RAM
 ```
 
 ## Funciones
@@ -102,11 +102,17 @@ Especificaciones: Una VM de nivel gratuito de Oracle - Ámsterdam - CPU ARM64 de
 | Soporte sin conexión                                 | Sí     | No  |
 | Galería de solo lectura                              | Sí     | Sí  |
 
-## Contribuidores
+## Traducciones
 
-<a href="https://github.com/alextran1502/immich/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=immich-app/immich" width="100%"/>
+Lee más acerca de las traducciones [acá](https://immich.app/docs/developer/translations).
+
+<a href="https://hosted.weblate.org/engage/immich/">
+<img src="https://hosted.weblate.org/widget/immich/immich/multi-auto.svg" alt="Estado de las traducciones" />
 </a>
+
+## Actividad del repositorio
+
+![Activities](https://repobeats.axiom.co/api/embed/9e86d9dc3ddd137161f2f6d2e758d7863b1789cb.svg "Repobeats analytics image")
 
 ## Historial de Estrellas
 
@@ -116,4 +122,10 @@ Especificaciones: Una VM de nivel gratuito de Oracle - Ámsterdam - CPU ARM64 de
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=immich-app/immich&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=immich-app/immich&type=Date" width="100%" />
  </picture>
+</a>
+
+## Contribuidores
+
+<a href="https://github.com/alextran1502/immich/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=immich-app/immich" width="100%"/>
 </a>
